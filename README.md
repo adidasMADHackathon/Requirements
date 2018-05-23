@@ -124,7 +124,8 @@ Technical features:
 - NFC tags (provided)
 
 ### We recommend you NFC
-
+- Own laptop
+- Compatible device (Android or iOS smartphone)
 - [Android SDK](https://www.python.org/downloads/)
 - [Android Studio](https://developer.android.com/studio/?hl=es)
 
