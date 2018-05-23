@@ -15,7 +15,9 @@
   * [ARCore](#ARCore)
     + [Must have ARCore](#must-have-arcore)
     + [We recommend you](#we-recommend-you-arcore)
-
+- [NFC](#nfc)
+  * [Must have NFC](#must-have-nfc)
+  * [We recommend you NFC](#we-recommend-you-nfc)
 
 ## Machine learning
 
@@ -105,3 +107,27 @@ You can go to the next links in order to get some free 3d models:
 - [Android SDK version 7.0 (API Level 24) or higher](https://docs.unity3d.com/Manual/android-sdksetup.html)
 - [Unity 2017.3.0f2 or higher](https://unity3d.com/es/get-unity/download) with the Android Build Support component
 - [ARCore SDK for Unity](https://github.com/google-ar/arcore-unity-sdk/releases/download/v1.1.0/arcore-unity-sdk-v1.1.0.unitypackage)
+
+
+## NFC
+
+We will provide you as much NFC tags as you need. We recommend you to build an Android or iOS app in order to use this tags.
+
+Technical features:
+  - Tag type: NXP MIFARE Ultralight - NTAG213
+  - Memory: 180 bytes in 45 pages (4 bytes each)
+  - Avaliable memory for user: 137 Bytes
+  - More info: https://www.nxp.com/docs/en/data-sheet/NTAG213_215_216.pdf
+
+### Must have NFC
+
+- NFC tags (provided)
+
+### We recommend you NFC
+
+- [Android SDK](https://www.python.org/downloads/)
+- [Android Studio](https://developer.android.com/studio/?hl=es)
+
+or
+
+- [iOS](https://developer.apple.com/ios/)
