@@ -64,7 +64,7 @@ $ conda activate bot # enter VE
 
 ### Nice to have
 
-- [tensorflow 1.7](https://www.tensorflow.org/install/) 
+- [tensorflow 1.7](https://www.tensorflow.org/install/)	
 - [cuda 8](https://developer.nvidia.com/cuda-80-ga2-download-archive) *Only if your computer can manage it*
 - [cudnn](https://developer.nvidia.com/cudnn) *Only if you managed to install cuda on your system*
 
