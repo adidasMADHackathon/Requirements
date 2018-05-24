@@ -64,7 +64,7 @@ $ conda activate bot # enter VE
 
 ### Nice to have
 
-- [tensorflow 1.7](https://www.tensorflow.org/install/)	
+- [tensorflow 1.7](https://www.tensorflow.org/install/) 
 - [cuda 8](https://developer.nvidia.com/cuda-80-ga2-download-archive) *Only if your computer can manage it*
 - [cudnn](https://developer.nvidia.com/cudnn) *Only if you managed to install cuda on your system*
 
@@ -124,7 +124,8 @@ Technical features:
 - NFC tags (provided)
 
 ### We recommend you NFC
-
+- Own laptop
+- Compatible device (Android or iOS smartphone)
 - [Android SDK](https://www.python.org/downloads/)
 - [Android Studio](https://developer.android.com/studio/?hl=es)
 
