@@ -132,3 +132,34 @@ Technical features:
 or
 
 - [iOS](https://developer.apple.com/ios/)
+
+
+## Streaming/Data
+
+Rather than giving you a training on concrete technologies, we are going to provide you a list of posible solutions and you are free to use them or simply ignore them.
+
+### Must have
+
+Nothing, or well, at least a computer of your own!
+
+### We recommend you
+
+- Docker
+- Docker compose v3
+- Java v1.8 (or higher)
+- Maven v3 (but then also use Gradle, its better, way better and simpler)
+- Node JS v8
+- NPM
+
+### Nice to have
+
+- [tensorflow 1.7](https://www.tensorflow.org/install/)	
+- [cuda 8](https://developer.nvidia.com/cuda-80-ga2-download-archive) *Only if your computer can manage it*
+- [cudnn](https://developer.nvidia.com/cudnn) *Only if you managed to install cuda on your system*
+
+### Technical talk
+
+- [ ] Part 1 - About Data and Streaming
+- [ ] Part 2 - Quick tips
+
+* The entire talk will be around 30 min
