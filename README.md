@@ -20,8 +20,8 @@
   * [We recommend you NFC](#we-recommend-you-nfc)
   
 - [Data/Streaming](#streaming/data)
-  * [Must have NFC](#must-have-data)
-  * [We recommend you NFC](#we-recommend-you-data)
+  * [Must have](#must-have-data)
+  * [We recommend you](#we-recommend-you-data)
 
 ## Machine learning
 
