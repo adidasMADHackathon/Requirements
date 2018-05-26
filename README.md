@@ -18,6 +18,10 @@
 - [NFC](#nfc)
   * [Must have NFC](#must-have-nfc)
   * [We recommend you NFC](#we-recommend-you-nfc)
+  
+- [Data/Streaming](#streaming/data)
+  * [Must have NFC](#must-have-data)
+  * [We recommend you NFC](#we-recommend-you-data)
 
 ## Machine learning
 
@@ -138,11 +142,11 @@ or
 
 Rather than giving you a training on concrete technologies, we are going to provide you a list of posible solutions and you are free to use them or simply ignore them.
 
-### Must have
+### Must have Data
 
 Nothing, or well, at least a computer of your own!
 
-### We recommend you
+### We recommend you Data
 
 - Docker
 - Docker compose v3
@@ -151,13 +155,7 @@ Nothing, or well, at least a computer of your own!
 - Node JS v8
 - NPM
 
-### Nice to have
-
-- [tensorflow 1.7](https://www.tensorflow.org/install/)	
-- [cuda 8](https://developer.nvidia.com/cuda-80-ga2-download-archive) *Only if your computer can manage it*
-- [cudnn](https://developer.nvidia.com/cudnn) *Only if you managed to install cuda on your system*
-
-### Technical talk
+### Technical talk Data
 
 - [ ] Part 1 - About Data and Streaming
 - [ ] Part 2 - Quick tips
